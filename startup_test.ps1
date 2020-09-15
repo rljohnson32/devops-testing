@@ -7,3 +7,5 @@
 mkdir C:\devops
 #move to directory
 cd C:\devops
+
+exit 0
